@@ -1,7 +1,7 @@
 {
   "name": "진주 버스 앱",
   "short_name": "진주버스",
-  "start_url": ".",
+  "start_url": "/jinju-bus-app/",
   "display": "standalone",
   "background_color": "#f4f4f4",
   "theme_color": "#007bff",
